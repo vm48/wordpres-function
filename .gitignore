@@ -145,3 +145,11 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.gitignore.io/api/osx,windows,phpstorm
+.idea/$CACHE_FILE$
+.idea/codeStyles/codeStyleConfig.xml
+.idea/$PRODUCT_WORKSPACE_FILE$
+.idea/deployment.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/wordpres-function.iml
